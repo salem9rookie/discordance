@@ -1,7 +1,7 @@
 ## Discordance DM Assistant Bot
 
 Contributors:
-Brandish 
-Leanna
-Ryan
+Brandish, 
+Leanna,
+Ryan,
 Salem
